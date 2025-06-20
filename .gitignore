@@ -1,0 +1,26 @@
+# Archivos y carpetas que Unity puede regenerar
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Archivos de IDE
+.vscode/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.pdb
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de Unity innecesarios para versionar
+*.apk
+*.unitypackage

@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hendrick\\Tanques\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B9E911-9ECC-ED88-086A-873FF7D3ABE7}|Assembly-CSharp.csproj|C:\\Users\\Hendrick\\Tanques\\assets\\scripts\\tank\\tankmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B9E911-9ECC-ED88-086A-873FF7D3ABE7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tank\\tankmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B9E911-9ECC-ED88-086A-873FF7D3ABE7}|Assembly-CSharp.csproj|c:\\users\\hendrick\\tanques\\assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B9E911-9ECC-ED88-086A-873FF7D3ABE7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B9E911-9ECC-ED88-086A-873FF7D3ABE7}|Assembly-CSharp.csproj|C:\\Users\\Hendrick\\Tanques\\assets\\scripts\\tank\\tankshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B9E911-9ECC-ED88-086A-873FF7D3ABE7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tank\\tankshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B9E911-9ECC-ED88-086A-873FF7D3ABE7}|Assembly-CSharp.csproj|C:\\Users\\Hendrick\\Tanques\\assets\\scripts\\managers\\tankmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B9E911-9ECC-ED88-086A-873FF7D3ABE7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\tankmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B9E911-9ECC-ED88-086A-873FF7D3ABE7}|Assembly-CSharp.csproj|C:\\Users\\Hendrick\\Tanques\\assets\\scripts\\camera\\cameracontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B9E911-9ECC-ED88-086A-873FF7D3ABE7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\cameracontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B9E911-9ECC-ED88-086A-873FF7D3ABE7}|Assembly-CSharp.csproj|C:\\Users\\Hendrick\\Tanques\\assets\\scripts\\shell\\shellexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B9E911-9ECC-ED88-086A-873FF7D3ABE7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shell\\shellexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B9E911-9ECC-ED88-086A-873FF7D3ABE7}|Assembly-CSharp.csproj|C:\\Users\\Hendrick\\Tanques\\assets\\scripts\\tank\\tankhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B9E911-9ECC-ED88-086A-873FF7D3ABE7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tank\\tankhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B9E911-9ECC-ED88-086A-873FF7D3ABE7}|Assembly-CSharp.csproj|C:\\Users\\Hendrick\\Tanques\\assets\\scripts\\ui\\uidirectioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B9E911-9ECC-ED88-086A-873FF7D3ABE7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uidirectioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TankManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hendrick\\Tanques\\Assets\\Scripts\\Managers\\TankManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\TankManager.cs",
+              "ToolTip": "C:\\Users\\Hendrick\\Tanques\\Assets\\Scripts\\Managers\\TankManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\TankManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:10:57.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hendrick\\Tanques\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Hendrick\\Tanques\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:10:16.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TankShooting.cs",
+              "DocumentMoniker": "C:\\Users\\Hendrick\\Tanques\\Assets\\Scripts\\Tank\\TankShooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tank\\TankShooting.cs",
+              "ToolTip": "C:\\Users\\Hendrick\\Tanques\\Assets\\Scripts\\Tank\\TankShooting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tank\\TankShooting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:41:54.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShellExplosion.cs",
+              "DocumentMoniker": "C:\\Users\\Hendrick\\Tanques\\Assets\\Scripts\\Shell\\ShellExplosion.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shell\\ShellExplosion.cs",
+              "ToolTip": "C:\\Users\\Hendrick\\Tanques\\Assets\\Scripts\\Shell\\ShellExplosion.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shell\\ShellExplosion.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwEMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:24:39.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TankHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Hendrick\\Tanques\\Assets\\Scripts\\Tank\\TankHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tank\\TankHealth.cs",
+              "ToolTip": "C:\\Users\\Hendrick\\Tanques\\Assets\\Scripts\\Tank\\TankHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tank\\TankHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:11:32.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UIDirectionControl.cs",
+              "DocumentMoniker": "C:\\Users\\Hendrick\\Tanques\\Assets\\Scripts\\UI\\UIDirectionControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIDirectionControl.cs",
+              "ToolTip": "C:\\Users\\Hendrick\\Tanques\\Assets\\Scripts\\UI\\UIDirectionControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIDirectionControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:08:58.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CameraControl.cs",
+              "DocumentMoniker": "C:\\Users\\Hendrick\\Tanques\\Assets\\Scripts\\Camera\\CameraControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraControl.cs",
+              "ToolTip": "C:\\Users\\Hendrick\\Tanques\\Assets\\Scripts\\Camera\\CameraControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\CameraControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:07:44.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TankMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Hendrick\\Tanques\\Assets\\Scripts\\Tank\\TankMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tank\\TankMovement.cs",
+              "ToolTip": "C:\\Users\\Hendrick\\Tanques\\Assets\\Scripts\\Tank\\TankMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tank\\TankMovement.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwGYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T06:50:13.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
